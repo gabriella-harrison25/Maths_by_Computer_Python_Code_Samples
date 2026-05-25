@@ -1,3 +1,3 @@
 # Assignment 2
 ## Contents
-- File 1: desc
+- *AssignB_Thomae_Func.ipynb*: Application of Analysis. Proves Thomae Function is only continuous at irrational points in (0,1) using numerical approximations.
