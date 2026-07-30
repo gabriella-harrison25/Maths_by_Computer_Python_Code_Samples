@@ -25,4 +25,4 @@ Complete an in-depth coursework project exploring the mathematical foundations o
 - K-Means Clustering
 
 ## Files:
-*ML_Final_Project.ipynb* - The entire project in one file, as it was formatted for official submission.
+*Machine_Learning_Project.ipynb* - The entire project in one file, as it was formatted for official submission.
