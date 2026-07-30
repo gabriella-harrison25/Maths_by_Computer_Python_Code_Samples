@@ -25,4 +25,5 @@ Complete an in-depth coursework project exploring the mathematical foundations o
 - K-Means Clustering
 
 ## Files:
-*Machine_Learning_Project.ipynb* - The entire project in one file, as it was formatted for official submission.
+*Machine_Learning_Project.ipynb* - The entire Python project in one file, as it was formatted for official submission.
+*Machine Learning Project Presentation.pdf* - The final presentation given to lecturers and fellow students.
